@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+import numpy as np
 # Parameters for the SOM
 num_cities = 7
 num_neurons = num_cities * 2  # More neurons than cities for flexibility
